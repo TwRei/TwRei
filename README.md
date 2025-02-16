@@ -4,4 +4,4 @@
 ## Nada que hacer, Divagando y aprendiendo un poco.
 -C\#
 -Python
-! [Gif](https://media1.tenor.com/m/xcWsdYWWsTEAAAAd/jpop-j-pop.gif)
+! [](https://media1.tenor.com/m/xcWsdYWWsTEAAAAd/jpop-j-pop.gif)
