@@ -3,4 +3,6 @@
 
 ## Nada que hacer, Divagando y aprendiendo un poco.
 -C#
+-Python
+
 
