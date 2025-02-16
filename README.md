@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![Tower stats](https://awesome-github-stats.azurewebsites.net/user-stats/TWRei)](https://git.io/awesome-stats-card)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TwRei&theme=2077
 
 
 
