@@ -4,4 +4,4 @@
 ## Nada que hacer, Divagando y aprendiendo un poco.
 -C\#
 -Python
-
+![Cat](https://tenor.com/es-419/view/jpop-j-pop-eve-lazy-cat-mv-gif-14250986216636199217)
